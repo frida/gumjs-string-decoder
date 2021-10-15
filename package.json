@@ -6,6 +6,7 @@
     "access": "public"
   },
   "main": "lib/string_decoder.js",
+  "type": "module",
   "files": [
     "lib"
   ],
